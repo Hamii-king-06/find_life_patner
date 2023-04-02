@@ -1,7 +1,7 @@
 import os,sys,re,random
 from random import choice as rc
 
-os.system("xdg-open https://facebook.com/H4M11.YOUR.DAD")
+os.system("xdg-open www.facebook.com/H4M11.YOUR.DAD")
 
 #########COLOR########
 GREEN ='\x1b[38;5;46m'
