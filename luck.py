@@ -53,7 +53,7 @@ def jawn():
 
 def chuna():
     clear()
-    boyfriends = ["Dear Girl You have no more space your boyfriends limit is full","Dear Girl yiu are so Lucky you will get soon Loyal Boyfriend"," Dear girl you have ugli face you can't be create relationship","Dear Girl You have lots for boyfriends plz stop it","Dear Girls face your face and Try again later","Better Luck next time","A good person comming soon in your life","you have Caring loving boyfriend don't dump him"]
+    boyfriends = ["Dear Girl You have no more space your boyfriends limit is full","Dear Girl you are so Lucky you will get soon Loyal Boyfriend"," Dear girl you have ugli face you can't be create relationship","Dear Girl You have lots for boyfriends plz stop it","Dear Girls face your face and Try again later","Better Luck next time","A good person comming soon in your life","you have Caring loving boyfriend don't dump him"]
     bfs = rc(boyfriends)
     print(40*'-')
     print("\t[ NOTE ]")
